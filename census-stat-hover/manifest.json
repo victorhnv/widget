@@ -1,0 +1,19 @@
+{
+  "name": "census-stat-hover",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.19.0",
+  "author": "Antigravity",
+  "description": "Widget showing census data distribution and hover value similar to ONS maps.",
+  "copyright": "",
+  "license": "ISC",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 300,
+    "height": 300
+  },
+  "frameworkVersion": "1.19.0"
+}
