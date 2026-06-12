@@ -1,0 +1,26 @@
+{
+  "name": "disponibilidad-v24",
+  "label": "Disponibilidad Geológica v24",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "VNUNEZESRI",
+  "description": "Información geológica disponible por comuna",
+  "category": "SERNAGEOMIN",
+  "icon": "datos.svg",
+  "properties": {
+    "hasConfig": true,
+    "hasSettingPage": true
+  },
+  "defaultSize": {
+    "width": 320,
+    "height": 520
+  },
+  "defaultConfig": {},
+  "translatedLocales": [
+    "es"
+  ],
+  "jimuVersion": ">=1.x.x",
+  "useMapWidget": true,
+  "settingUri": "setting/setting"
+}
