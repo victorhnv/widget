@@ -1,0 +1,26 @@
+{
+  "name": "disponibilidad-v32",
+  "label": "Disponibilidad Geológica",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.17.0",
+  "author": "VictorNuñez-ESRI-SERNAGEOMIN",
+  "description": "Consulta de disponibilidad de información geológica por comuna de Chile. Incluye propiedad minera, riesgos, recursos hídricos, recursos estratégicos, relaves y cartas geológicas.",
+  "category": "SERNAGEOMIN",
+  "icon": "datos.svg",
+  "properties": {
+    "hasConfig": true,
+    "hasSettingPage": true
+  },
+  "defaultSize": {
+    "width": 320,
+    "height": 520
+  },
+  "defaultConfig": {},
+  "translatedLocales": [
+    "es"
+  ],
+  "jimuVersion": ">=1.x.x",
+  "useMapWidget": true,
+  "settingUri": "setting/setting"
+}
